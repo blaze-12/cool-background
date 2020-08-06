@@ -1,1 +1,1 @@
-# cool-background
+# cool/smart-background
